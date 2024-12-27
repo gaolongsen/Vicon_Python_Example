@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from matplotlib.ticker import FuncFormatter
 # Author: Longsen Gao
 # Email: longsengao@gmail.com
-# Tutorial for this file in Youtube: 
+# Tutorial for this file in Youtube: https://youtu.be/oUW-DhOWX7s
 
 VICON_TRACKER_IP = "192.168.50.230"
 OBJECT_NAME = "solar"
